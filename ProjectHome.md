@@ -1,0 +1,1 @@
+radMaker is a framework and platform for create RAD applications
